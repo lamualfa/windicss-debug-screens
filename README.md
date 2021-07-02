@@ -11,6 +11,8 @@ Alternative [tailwindcss-debug-screens](https://github.com/jorenvanhee/tailwindc
 - No need to install any additional dependencies
 - Just copy and paste it
 
+See the Demo [here](https://windicss.org/play.html?html=DwEwlgbgBAxgNgQwM5ILwHIQFMBGBXAcwFokYAnLLAOyXQD5gB6cCOoA&css=HQEwpgRgrg5gtAZwMYCcxgHYIAQG8BQAkAAICGADuQDYCe2EYAZgPZoBcEzALl8wLZwADPSaswbKky5CRLdowCWADzAhZYtgC84AbQBMARgAsAdiMAOAMwA2UwF117ckrgHH4rmCXSEfdx3gIKlIkAGt-T284AHcACwVPfwRY0hBmaLglKmxiXw5RdiRmDE8S3QAiZDRMNl9yh2I%2BEHy5cSKSzGkdStR0DDYm%2BpyqGBaNdtKunur%2BkaHiLLHC4smKqr62LPm9RYZWtgnOtd6anaohgB48vfGVo%2B71moxisHqAbnwAXyA).
+
 ## Preparation
 
 Base class names:
